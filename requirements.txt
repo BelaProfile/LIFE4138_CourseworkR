@@ -1,0 +1,3 @@
+#The libraries used to solve the questions
+library(ggplot2)
+library(pheatmap)
